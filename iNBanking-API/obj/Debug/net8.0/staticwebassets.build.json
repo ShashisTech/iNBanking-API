@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P0macrvXTxEaT9nWqBFbOEowenbxwQ33/NxWiRbL4Xk=",
+  "Source": "iNBanking-API",
+  "BasePath": "_content/iNBanking-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
